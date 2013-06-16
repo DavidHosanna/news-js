@@ -5,7 +5,7 @@ news-js
 var newsText = new Array();<br/>
 newsText[0] = "This is the first"; // First text<br/>
 newsText[1] = "and the second"; // Second text<br/>
-newsText[1] = "finally, the last"; // Third text<br/>
+newsText[2] = "finally, the last"; // Third text<br/>
 var ttloop = 0; // Loop<br/>
 var tspeed = 100; // Typing speed<br/>
 var tdelay = 1000; // Delay when the text changed<br/>
